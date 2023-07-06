@@ -3,7 +3,7 @@
 <!---
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 --->
-<div>
+<div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomdsv&show_icons=true&theme=tokyonight&border_radius=1&hide_border=true&hide_title=true" alt="Diego's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomdsv&layout=compact&theme=tokyonight&border_radius=1&hide_border=true" alt="Top Langs" />
 </div>
