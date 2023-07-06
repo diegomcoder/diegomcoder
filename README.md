@@ -4,7 +4,7 @@
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 --->
 <div style="display: flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomdsv&show_icons=true&theme=tokyonight&border_radius=1&hide_border=true&hide_title=true&text_bold=false&card_width=auto" alt="Diego's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomdsv&show_icons=true&theme=tokyonight&border_radius=1&hide_border=true&hide_title=true&text_bold=false&card_width=490px" alt="Diego's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomdsv&layout=compact&theme=tokyonight&border_radius=1&hide_border=true&text_bold=false" alt="Top Langs" />
 </div>
 <br />
