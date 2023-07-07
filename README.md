@@ -1,4 +1,4 @@
-### Oii!! Sou Diego Medeiros. Bem vindo ao meu perfil 😊
+<h2>Oii!! Sou Diego Medeiros. Bem vindo ao meu perfil 😊</h2>
 <br/>
 <!---
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
@@ -8,7 +8,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomdsv&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&text_bold=false" alt="Diego's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomdsv&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&text_bold=false" alt="Top Langs" />
 </div>
+
 <br />
+
+<p>Entre em contato comigo através dos links abaixo 👇</p>
 <div style="display: inline_block">
   <a href="https://api.whatsapp.com/send?phone=5577998319712&text=Olá!%20Te%20encontrei%20no%20GitHub%20e%20gostei%20dos%20projetos%20que%20você%20publicou." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Diego's WhatsApp" />
@@ -26,3 +29,16 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Diego's YouTube" />
   <a />
 <div />
+  
+<br />
+<hr />
+  
+<h3>Minhas Stacks 😎<h3 />
+  
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</div>
