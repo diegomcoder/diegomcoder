@@ -2,6 +2,7 @@
 <br/>
 <!---
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
+https://dev.to/envoy_/150-badges-for-github-pnk
 --->
 <div style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomdsv&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true&text_bold=false" alt="Diego's GitHub stats" />
