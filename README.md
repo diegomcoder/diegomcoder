@@ -11,6 +11,17 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <br />
 
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</div>
+
+<br />
+<hr />
+
 <p>Entre em contato comigo através dos links abaixo 👇</p>
 <div style="display: inline_block">
   <a href="https://api.whatsapp.com/send?phone=5577998319712&text=Olá!%20Te%20encontrei%20no%20GitHub%20e%20gostei%20dos%20projetos%20que%20você%20publicou." target="_blank">
@@ -29,16 +40,3 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Diego's YouTube" />
   <a />
 <div />
-  
-<br />
-<hr />
-  
-<h3>Minhas Stacks 😎<h3 />
-  
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
