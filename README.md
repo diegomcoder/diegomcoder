@@ -27,12 +27,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://api.whatsapp.com/send?phone=5577998319712&text=Olá!%20Te%20encontrei%20no%20GitHub%20e%20gostei%20dos%20projetos%20que%20você%20publicou." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Diego's WhatsApp" />
   <a />
+    <!---
   <a href="https://www.facebook.com/diegomdsv" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Diego's Facebook" />
   <a />
   <a href="https://www.instagram.com/diegomdsv/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Diego's Instagram" />
   <a />
+    --->
   <a href="https://www.linkedin.com/in/diegomdsv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Diego's LinkedIn" />
   <a />
