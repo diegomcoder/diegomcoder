@@ -1,4 +1,6 @@
-<h2>Oii!! Sou Diego Medeiros. Bem vindo ao meu perfil 😊</h2>
+### *Hello, I’m Diego Medeiros, a passionate developer dedicated to creating innovative solutions.*
+#### Welcome to my GitHub profile, where you can explore my projects and contributions.
+
 <br/>
 <!---
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
@@ -22,10 +24,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </div>
 
-<br />
 <hr />
 
-<p>Entre em contato comigo através dos links abaixo 👇</p>
+### *Fell free to connect with me through the links below. I'm always open for a chat!* 😊
 <div style="display: inline_block">
   <a href="https://api.whatsapp.com/send?phone=5577998319712&text=Olá!%20Te%20encontrei%20no%20GitHub%20e%20gostei%20dos%20projetos%20que%20você%20publicou." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Diego's WhatsApp" />
