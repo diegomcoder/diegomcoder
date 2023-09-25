@@ -40,7 +40,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://www.linkedin.com/in/diegomcoder" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Diego's LinkedIn" />
   <a />
-  <a href="https://www.youtube.com/channel/UCTZ-0XWu05vMoDP-rpI8HTg" target="_blank">
+  <a href="https://www.youtube.com/@diegomcoder" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Diego's YouTube" />
   <a />
 <div />
